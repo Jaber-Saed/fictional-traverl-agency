@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+HCrBCBtS2qTQHRHh4ApKWK5L77N0W5csHrigWxW/atsjGZsa4o7JlMpwI+oYU8DOqZ4MQuMA8Dt4pFeByI4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaber\\Desktop\\Ex_Files_Software_Architecture_Patterns_Dev\\Exercise Files\\Ch02\\02_01 Monolith\\ExploreCalifornia.Monolith\\ExploreCalifornia.Monolith\\ExploreCalifornia.Monolith.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaber\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\microsoft.data.sqlite\\3.1.1\\microsoft.data.sqlite.3.1.1.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.1\\microsoft.data.sqlite.core.3.1.1.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.2\\sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\jaber\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
